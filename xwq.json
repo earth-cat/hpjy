@@ -1,0 +1,302 @@
+{
+    "blqxzh_17": [
+        {
+            "blqxm_ee": "Kar98K",
+            "blqxlm_08": "狙击枪",
+            "kj_14": "7.62mm",
+            "blqjswa_78": "性能优异的单发栓动狙击枪。单发伤害高，能一击摧毁二级头，缺点是仅适合远距离使用，十分依赖高倍镜，对枪法依赖很高，尽量命中头部才能发挥威力。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/e0121a13566899e12fa65d78db623d9c.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200323/699020d272711a123bcd7fcbc0aa2440.png",
+                    "qxpft2_ac": "梦幻火箭"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "消音器",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/b04efdb2f28b4314bdc92c1b956479f6.png"
+                },
+                {
+                    "pjm_40": "8倍镜",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/fdc0f2a79069482b1b222bedebb0689b.png"
+                },
+                {
+                    "pjm_40": "子弹袋",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/5a6427b865c9fbe763430348c0f462d1.png"
+                }
+            ]
+        },
+        {
+            "blqxm_ee": "SCAR-L",
+            "blqxlm_08": "突击步枪",
+            "kj_14": "5.56mm",
+            "blqjswa_78": "拥有单发和全自动两种模式。后坐力低，容易操控，精准而稳定，综合性能优异，缺点是射速不如其他使用5.56mm子弹的步枪。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191018/03561b512ce11dab2ce03eaa6d5e033e.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200323/5fdc181e8ab3d4e4ba527335422b985d.png",
+                    "qxpft2_ac": "梦幻火箭"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "垂直握把",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190805/7c676c5fe4e73b552114cd5d3ab473a4.png"
+                },
+                {
+                    "pjm_40": "消音器",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/b04efdb2f28b4314bdc92c1b956479f6.png"
+                },
+                {
+                    "pjm_40": "快速扩容",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/fea5c2a89ef151d4b89bb2973af4db8a.png"
+                },
+                {
+                    "pjm_40": "2倍镜",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191018/3a7a02899c69417c1885b932d585591f.png"
+                }
+            ]
+        },
+        {
+            "blqxm_ee": "Mini14",
+            "blqxlm_08": "射手步枪",
+            "kj_14": "5.56mm",
+            "blqjswa_78": "半自动精确射手步枪。子弹初速度大，弹道下坠小，20发弹容量是狙击枪中载弹量最高的，稳定性也比较高，缺点是枪声大，容易暴露位置。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/aff694ad608535a62cd8c9352fd3d3ac.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200323/c7f75211bf973d6ca0f60f0d792c6f6c.png",
+                    "qxpft2_ac": "梦幻火箭"
+                },
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200309/271c9f4153ff52efc8b58a72f5eae8f0.png",
+                    "qxpft2_ac": "春暖花开"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "4倍镜",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/0ea183560c6bff67908f457aea8c8148.png"
+                },
+                {
+                    "pjm_40": "补偿器",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/6365b8aa964838773beb1473ffe28e18.png"
+                },
+                {
+                    "pjm_40": "快速扩容",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/7305dbb811e7c3afb9b0682d6f38f973.png"
+                }
+            ]
+        },
+        {
+            "blqxm_ee": "M416",
+            "blqxlm_08": "突击步枪",
+            "kj_14": "5.56mm",
+            "blqjswa_78": "拥有单发和全自动两种模式。可装配配件丰富，满配件后稳定性强，是一把非常全面的武器，适合各种距离下使用，唯一缺点是过于依赖配件。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/a66ca3867fe4d818c22f3f9697a9d8dd.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200323/a0b2f599e5906bb2cdd9a13cce2ccb95.png",
+                    "qxpft2_ac": "仓鼠灰灰"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "垂直握把",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190805/7c676c5fe4e73b552114cd5d3ab473a4.png"
+                },
+                {
+                    "pjm_40": "战术枪托",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190805/ec2bf2b49c03d48c89d50a763718030e.png"
+                },
+                {
+                    "pjm_40": "消音器",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/b04efdb2f28b4314bdc92c1b956479f6.png"
+                },
+                {
+                    "pjm_40": "快速扩容",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/fea5c2a89ef151d4b89bb2973af4db8a.png"
+                },
+                {
+                    "pjm_40": "4倍镜",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/0ea183560c6bff67908f457aea8c8148.png"
+                }
+            ]
+        },
+        {
+            "blqxm_ee": "AKM",
+            "blqxlm_08": "突击步枪",
+            "kj_14": "7.62mm",
+            "blqjswa_78": "拥有单发和全自动两种模式，单发伤害高是它最大的优势，但后坐力很大，难以操控；推荐高手使用。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191016/81ba7e205965db25a7d93d2ab7d1363e.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200309/410a3a860016e12bc96c1e644736ad74.png",
+                    "qxpft2_ac": "春暖花开"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "快速扩容",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/fea5c2a89ef151d4b89bb2973af4db8a.png"
+                },
+                {
+                    "pjm_40": "4倍镜",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/0ea183560c6bff67908f457aea8c8148.png"
+                },
+                {
+                    "pjm_40": "补偿",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191016/da67e843e284d1519fd016cd7bafc50a.png"
+                }
+            ]
+        },
+        {
+            "blqxm_ee": "Groza",
+            "blqxlm_08": "突击步枪",
+            "kj_14": "7.62mm",
+            "blqjswa_78": "空投武器，拥有单发和全自动两种模式。单发伤害高，射速快，是全自动中近距离表现最强的步枪，缺点是中远距离难以掌控，不能装配8倍镜、消焰器、补偿器。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191105/b43a10c1029b7a392f5090db9cf0fbfa.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200309/b6328d7c35d934c86daa15fa4dbf4645.png",
+                    "qxpft2_ac": "春暖花开"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "消音器",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/b04efdb2f28b4314bdc92c1b956479f6.png"
+                },
+                {
+                    "pjm_40": "快速扩容",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/fea5c2a89ef151d4b89bb2973af4db8a.png"
+                },
+                {
+                    "pjm_40": "红点准镜",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/7f7e7e265f2fdc6397526f77a0785777.png"
+                }
+            ]
+        },
+        {
+            "blqxm_ee": "S1897",
+            "blqxlm_08": "霰弹枪",
+            "kj_14": "12号",
+            "blqjswa_78": "经典霰弹枪，在地图中十分常见。由于是单发装填，只要弹仓有子弹就可随时开枪，5发弹容量容错率高，近距离霰弹威力巨大，需要手动上膛，射速慢，几乎只能近距离使用。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191016/fda796305b5763bd93639e56aecc8b18.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200309/c35f2046b7ba71bb702bae1e0da977c5.png",
+                    "qxpft2_ac": "春暖花开"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "收束器",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191016/7e4ae7c5652ed14d14627d6b15001d45.png"
+                },
+                {
+                    "pjm_40": "子弹袋",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20191016/74acc9523489a14ed40862457bce2e3d.png"
+                }
+            ]
+        },
+        {
+            "blqxm_ee": "UMP45",
+            "blqxlm_08": "冲锋枪",
+            "kj_14": ".45mm",
+            "blqjswa_78": "拥有单发、2连发、全自动模式的冲锋枪。机动性强，稳定性强，可装配配件多，综合性能优异，比其他冲锋枪射程更远，但各方面表现都不够突出。",
+            "blqdt_98": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/1665e498a57fa5abd3969b975bc6c643.png",
+            "blqxt_ae": "",
+            "blsj_82": "",
+            "qxpfzh_79": [
+                {
+                    "blqpf_bc": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20200309/c80635a072fd30eb79883666032dec4c.png",
+                    "qxpft2_ac": "春暖花开"
+                }
+            ],
+            "blqxpjzh_b2": [
+                {
+                    "pjm_40": "直角握把",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/d93a87e9a6094daf22e48d861173ac47.png"
+                },
+                {
+                    "pjm_40": "消音器",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/b04efdb2f28b4314bdc92c1b956479f6.png"
+                },
+                {
+                    "pjm_40": "红点准镜",
+                    "blqpjt_8d": "//game.gtimg.cn/images/gp/zlkdatasys/images//image/20190911/7f7e7e265f2fdc6397526f77a0785777.png"
+                }
+            ]
+        }
+    ],
+    "blwfz_cf": [
+        {
+            "blsj_82": "",
+            "blwfm_5b": "来一场宇宙级的冒险！",
+            "blwfjs_b0": "",
+            "blwft_7e": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220919/16635993495010.jpg",
+            "blwftl_0f": ""
+        },
+        {
+            "blsj_82": "",
+            "blwfm_5b": "突破上限，各显身手",
+            "blwfjs_b0": "",
+            "blwft_7e": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220919/16635837749506.jpg",
+            "blwftl_0f": ""
+        },
+        {
+            "blsj_82": "",
+            "blwfm_5b": "来一场宇宙级的冒险！",
+            "blwfjs_b0": "",
+            "blwft_7e": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220919/16635837915869.jpg",
+            "blwftl_0f": ""
+        }
+    ],
+    "bldtzh_94": [
+        {
+            "bldtm_e1": "火箭发射塔",
+            "bldt_3c": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220919/16635835593304.jpg",
+            "blsj_82": ""
+        },
+        {
+            "bldtm_e1": "反重力装置",
+            "bldt_3c": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220919/16635835802791.jpg",
+            "blsj_82": ""
+        },
+        {
+            "bldtm_e1": "航天信息站",
+            "bldt_3c": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220919/16635836072218.jpg",
+            "blsj_82": ""
+        }
+    ],
+    "blzjzh_4c": [
+        {
+            "blsj_82": "",
+            "blzjm_53": "山地自行车",
+            "blzjt_1b": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220920/16636629348295.jpg",
+            "blzjjs_f0": ""
+        },
+        {
+            "blsj_82": "",
+            "blzjm_53": "旅行车",
+            "blzjt_1b": "//game.gtimg.cn/images/gp/zlkdatasys/images/image/20220927/16642634405987.jpg",
+            "blzjjs_f0": ""
+        }
+    ]
+}
